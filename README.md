@@ -12,7 +12,7 @@
 2.  [Intents — The Complete Matrix](#2-intents--the-complete-matrix)
 3.  [Client vs Bot vs AutoShardedBot](#3-client-vs-bot-vs-autoshardedbot)
 
-**Part II — Core API**
+**Part II — Core API**<br>
 4.  [Application Info, Teams & PartialAppInfo](#4-application-info-teams--partialappinfo)<br>
 5.  [Guild — Every Method & Attribute](#5-guild--every-method--attribute)<br>
 6.  [Member & User — Every Method & Attribute](#6-member--user--every-method--attribute)<br>
@@ -21,7 +21,7 @@
 9.  [Embeds — Complete Reference](#9-embeds--complete-reference)<br>
 10. [UI Components — Buttons, Selects, Views & Modals](#10-ui-components--buttons-selects-views--modals)<br>
 
-**Part III — Advanced API**
+**Part III — Advanced API**<br>
 11. [Application Commands (Slash, Context Menu, Autocomplete)](#11-application-commands-slash-context-menu-autocomplete)<br>
 12. [Interactions — Response, Followup & Original Response](#12-interactions--response-followup--original-response)<br>
 13. [Permissions, Roles, Timeouts & Audit Logs](#13-permissions-roles-timeouts--audit-logs)<br>
@@ -31,13 +31,13 @@
 17. [Webhooks & WebhookMessage](#17-webhooks--webhookmessage)<br>
 18. [Voice — VoiceClient, Audio Sources & Stage Channels](#18-voice--voiceclient-audio-sources--stage-channels)<br>
 
-**Part IV — Events & Scheduling**
+**Part IV — Events & Scheduling**<br>
 19. [The Complete Event Reference (100+ Events)](#19-the-complete-event-reference-100-events)<br>
 20. [Raw Events — The Full List](#20-raw-events--the-full-list)<br>
 21. [Presence, Status & Activity — Every Type](#21-presence-status--activity--every-type)<br>
 22. [Background Tasks — `discord.ext.tasks`](#22-background-tasks--discordexttasks)<br>
 
-**Part V — Production**
+**Part V — Production**<br>
 23. [Cogs & Extensions](#23-cogs--extensions)<br>
 24. [Error Handling & Exception Hierarchy](#24-error-handling--exception-hierarchy)<br>
 25. [Rate Limits, Sharding & Logging](#25-rate-limits-sharding--logging)<br>
