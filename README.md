@@ -13,38 +13,38 @@
 3.  [Client vs Bot vs AutoShardedBot](#3-client-vs-bot-vs-autoshardedbot)
 
 **Part II — Core API**
-4.  [Application Info, Teams & PartialAppInfo](#4-application-info-teams--partialappinfo)
-5.  [Guild — Every Method & Attribute](#5-guild--every-method--attribute)
-6.  [Member & User — Every Method & Attribute](#6-member--user--every-method--attribute)
-7.  [Channels — Text, Voice, Category, Thread, Forum, Stage](#7-channels--text-voice-category-thread-forum-stage)
-8.  [Message, Attachment, Reaction & Poll](#8-message-attachment-reaction--poll)
-9.  [Embeds — Complete Reference](#9-embeds--complete-reference)
-10. [UI Components — Buttons, Selects, Views & Modals](#10-ui-components--buttons-selects-views--modals)
+4.  [Application Info, Teams & PartialAppInfo](#4-application-info-teams--partialappinfo)<br>
+5.  [Guild — Every Method & Attribute](#5-guild--every-method--attribute)<br>
+6.  [Member & User — Every Method & Attribute](#6-member--user--every-method--attribute)<br>
+7.  [Channels — Text, Voice, Category, Thread, Forum, Stage](#7-channels--text-voice-category-thread-forum-stage)<br>
+8.  [Message, Attachment, Reaction & Poll](#8-message-attachment-reaction--poll)<br>
+9.  [Embeds — Complete Reference](#9-embeds--complete-reference)<br>
+10. [UI Components — Buttons, Selects, Views & Modals](#10-ui-components--buttons-selects-views--modals)<br>
 
 **Part III — Advanced API**
-11. [Application Commands (Slash, Context Menu, Autocomplete)](#11-application-commands-slash-context-menu-autocomplete)
-12. [Interactions — Response, Followup & Original Response](#12-interactions--response-followup--original-response)
-13. [Permissions, Roles, Timeouts & Audit Logs](#13-permissions-roles-timeouts--audit-logs)
-14. [AutoMod — Rules, Triggers & Actions](#14-automod--rules-triggers--actions)
-15. [Scheduled Events](#15-scheduled-events)
-16. [Stickers, Emojis & Integrations](#16-stickers-emojis--integrations)
-17. [Webhooks & WebhookMessage](#17-webhooks--webhookmessage)
-18. [Voice — VoiceClient, Audio Sources & Stage Channels](#18-voice--voiceclient-audio-sources--stage-channels)
+11. [Application Commands (Slash, Context Menu, Autocomplete)](#11-application-commands-slash-context-menu-autocomplete)<br>
+12. [Interactions — Response, Followup & Original Response](#12-interactions--response-followup--original-response)<br>
+13. [Permissions, Roles, Timeouts & Audit Logs](#13-permissions-roles-timeouts--audit-logs)<br>
+14. [AutoMod — Rules, Triggers & Actions](#14-automod--rules-triggers--actions)<br>
+15. [Scheduled Events](#15-scheduled-events)<br>
+16. [Stickers, Emojis & Integrations](#16-stickers-emojis--integrations)<br>
+17. [Webhooks & WebhookMessage](#17-webhooks--webhookmessage)<br>
+18. [Voice — VoiceClient, Audio Sources & Stage Channels](#18-voice--voiceclient-audio-sources--stage-channels)<br>
 
 **Part IV — Events & Scheduling**
-19. [The Complete Event Reference (100+ Events)](#19-the-complete-event-reference-100-events)
-20. [Raw Events — The Full List](#20-raw-events--the-full-list)
-21. [Presence, Status & Activity — Every Type](#21-presence-status--activity--every-type)
-22. [Background Tasks — `discord.ext.tasks`](#22-background-tasks--discordexttasks)
+19. [The Complete Event Reference (100+ Events)](#19-the-complete-event-reference-100-events)<br>
+20. [Raw Events — The Full List](#20-raw-events--the-full-list)<br>
+21. [Presence, Status & Activity — Every Type](#21-presence-status--activity--every-type)<br>
+22. [Background Tasks — `discord.ext.tasks`](#22-background-tasks--discordexttasks)<br>
 
 **Part V — Production**
-23. [Cogs & Extensions](#23-cogs--extensions)
-24. [Error Handling & Exception Hierarchy](#24-error-handling--exception-hierarchy)
-25. [Rate Limits, Sharding & Logging](#25-rate-limits-sharding--logging)
-26. [Best Practices & Security](#26-best-practices--security)
-27. [Troubleshooting — The 25 Most Common Errors](#27-troubleshooting--the-25-most-common-errors)
-28. [Complete Runnable Project — “Studio Bot”](#28-complete-runnable-project--studio-bot)
-29. [Master Cheat Sheet](#29-master-cheat-sheet)
+23. [Cogs & Extensions](#23-cogs--extensions)<br>
+24. [Error Handling & Exception Hierarchy](#24-error-handling--exception-hierarchy)<br>
+25. [Rate Limits, Sharding & Logging](#25-rate-limits-sharding--logging)<br>
+26. [Best Practices & Security](#26-best-practices--security)<br>
+27. [Troubleshooting — The 25 Most Common Errors](#27-troubleshooting--the-25-most-common-errors)<br>
+28. [Complete Runnable Project — “Studio Bot”](#28-complete-runnable-project--studio-bot)<br>
+29. [Master Cheat Sheet](#29-master-cheat-sheet)<br>
 
 ---
 
