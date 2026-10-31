@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![discord.py](https://img.shields.io/badge/discord.py-2.7.1-5865F2)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-maintained-brightgreen)
+![Version](https://img.shields.io/badge/version-2.0.0-orange)
+![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen)
+---
 # 📘 The Ultimate `discord.py` Encyclopedia & Cheat Sheet — **Version 2.0**
 
 > **The complete, definitive reference for `discord.py` v2.7.1 — every API, event, class, and feature explained in plain English, with runnable examples for every concept.**  
